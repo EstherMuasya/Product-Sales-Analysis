@@ -28,7 +28,7 @@ The dataset includes:
    ```sh
    git clone https://github.com/yourusername/sales-analysis.git
 2. **Install dependencies**
-3.  ```sh
+   ```sh
 pip install pandas, matplotlib, seaborn
 4. **Run the Jupyter Notebook**
  ```sh
