@@ -24,10 +24,12 @@ The dataset includes:
 - **Jupyter Notebook** for analysis
 
 ## How to Run the Project
-1. Clone the repository:
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/sales-analysis.git
-pip install pandas matplotlib seaborn
+2. **Install dependencies**
+pip install pandas, matplotlib, seaborn
+3. **Run the Jupyter Notebook**
 jupyter notebook sales_analysis.ipynb
 
 ## Recommendations
