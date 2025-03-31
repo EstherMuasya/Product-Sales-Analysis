@@ -28,8 +28,10 @@ The dataset includes:
    ```sh
    git clone https://github.com/yourusername/sales-analysis.git
 2. **Install dependencies**
+3.  ```sh
 pip install pandas, matplotlib, seaborn
-3. **Run the Jupyter Notebook**
+4. **Run the Jupyter Notebook**
+ ```sh
 jupyter notebook sales_analysis.ipynb
 
 ## Recommendations
