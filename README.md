@@ -30,7 +30,8 @@ The dataset includes:
 2. **Install dependencies**
    
 pip install pandas, matplotlib, seaborn
-4. **Run the Jupyter Notebook**
+
+3. **Run the Jupyter Notebook**
  
 jupyter notebook sales_analysis.ipynb
 
