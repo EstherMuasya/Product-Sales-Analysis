@@ -39,3 +39,17 @@ The dataset includes:
 - **Prioritize the Email + Call strategy** to maximize revenue.
 - **Use data-driven insights** to refine customer segmentation.
 - **Monitor site visits** to improve marketing efforts.
+
+Clone this repository:
+
+git clone https://github.com/yourusername/sales-analysis.git
+
+Install dependencies:
+
+pip install pandas matplotlib seaborn
+
+Run the Jupyter Notebook to view the analysis:
+
+jupyter notebook sales_analysis.ipynb
+
+Recommendations
