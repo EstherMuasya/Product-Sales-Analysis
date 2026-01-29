@@ -29,13 +29,15 @@ The dataset includes:
    git clone https://github.com/yourusername/sales-analysis.git
 2. **Install dependencies**
    
-pip install pandas, matplotlib, seaborn
+   pip install pandas, matplotlib, seaborn
 
 3. **Run the Jupyter Notebook**
  
-jupyter notebook sales_analysis.ipynb
+   jupyter notebook sales_analysis.ipynb
 
 ## Recommendations
 - **Prioritize the Email + Call strategy** to maximize revenue.
 - **Use data-driven insights** to refine customer segmentation.
 - **Monitor site visits** to improve marketing efforts.
+
+
