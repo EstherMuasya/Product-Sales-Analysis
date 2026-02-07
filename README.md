@@ -14,14 +14,20 @@ The dataset includes:
 - `state` → Character, location of the customer i.e. where orders are
  shipped
 
+## Technologies Used
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Jupyter Notebook** for analysis
+
 ## Key Insights
 - **`Email + Call` is the most effective sales method**, generating the highest revenue.
 - **`Customer tenure` does not significantly impact revenue**, but site visits do.
 - **`Revenue` trends remain stable over time**.
 
-## Technologies Used
-- **Python** (Pandas, Matplotlib, Seaborn)
-- **Jupyter Notebook** for analysis
+## Recommendations
+- **Prioritize the Email + Call strategy** to maximize revenue.
+- **Use data-driven insights** to refine customer segmentation.
+- **Monitor site visits** to improve marketing efforts.
+
 
 ## How to Run the Project
 1. **Clone the repository:**
@@ -35,9 +41,5 @@ The dataset includes:
  
    jupyter notebook sales_analysis.ipynb
 
-## Recommendations
-- **Prioritize the Email + Call strategy** to maximize revenue.
-- **Use data-driven insights** to refine customer segmentation.
-- **Monitor site visits** to improve marketing efforts.
 
 
